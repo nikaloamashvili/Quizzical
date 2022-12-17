@@ -1,0 +1,121 @@
+* {
+    box-sizing: border-box;
+}
+
+body{
+    text-align: center;
+    align-items: center;
+background: #DEEBF8;
+
+}
+
+
+.firstPage{
+    padding: 10%;
+        text-align: center;
+
+
+
+}
+.firstPageh1{
+font-family: 'Karla';
+font-style: normal;
+font-weight: 700;
+font-size: 50px;
+line-height: 37px;
+text-align: center;
+color: #293264;
+}
+.firstPagep{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 19px;
+    text-align: center;
+    color: #293264;
+}
+
+.firstPageb{
+background: #4D5B9E;
+height: 70px;
+width: 350px;
+
+border-radius: 50px;
+} 
+
+.firstPageb span{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 60px;
+line-height: 19px;
+text-align: center;
+
+color: #F5F7FB;
+}
+
+.ans{
+    display: flex;
+     margin-bottom: 10px;
+      align-items: center;
+
+
+
+}
+
+.an{
+      flex-grow: 1;
+    height: 50px;
+    
+
+        margin-left: 10px;
+box-sizing: border-box;
+border: 5px solid #4D5B9E;
+border-radius: 70px;
+
+}
+
+.qus{
+    font-family: 'Karla';
+font-style: normal;
+font-weight: 700;
+font-family: 'Inter';
+font-style: normal;
+font-size: 25px;
+line-height: 19px;
+
+
+/* identical to box height */
+
+
+color: #293264;
+}
+
+.quss{
+    border-bottom:  1px solid #DBDEF0;
+    transform: rotate(-0.05deg);
+       margin-bottom: 20px;
+       font-size: 20px;
+
+}
+
+.secPageb{
+    height: 50px;
+background: #4D5B9E;
+border-radius: 70px;
+}
+.textins{
+     position:relative;
+
+top: 40%;
+font-family: 'Inter';
+font-style: normal;
+font-size: 20px;
+
+/* identical to box height */
+
+
+color: #293264;
+}
+
